@@ -1,5 +1,7 @@
 # Loan-Fraud-Detection
+## The project is of a predictive analysis of Dataset which contains some catagorical and some numerical features of possesion details and personal behaviour of people all over the country and predicting the loan. ##
 
+                                                              ## PART 1
 ### 1>.  try out incrementally more complex models which satisfies real world costraint and requirements...
 
 
@@ -33,8 +35,8 @@ the Dataset contains features like city and state both...
     
 5>. conclution till now - when there is a lot of unique catagorical  variable encoding in the dataset then most of the time it doesnt make any sence with the real world data, so the model which i stated it will work good for now but we cant say anything until we go through code implementation...
 
+                                                             ## PART 2
 
-### The project is of a predictive analysis of Dataset which contains some catagorical and some numerical features of possesion details and personal behaviour of people all over the country and predicting the loan. ###
 
 The part 1 text contains the EDA done initially before choosing any model and after that, choosing 2 models which seems suitable along with the dataset, I have added a fet new approach in the end, while i was choosing the second model to be Random forest, with 89% score.
 
