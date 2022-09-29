@@ -1,5 +1,5 @@
 # Loan-Fraud-Detection
-## The project is of a predictive analysis of Dataset which contains some catagorical and some numerical features of possesion details and personal behaviour of people all over the country and predicting the loan. ##
+## The project is of a predictive analysis of Dataset which contains some catagorical and some numerical features of possesion details and personal behaviour of people all over the country and predicting their loan, wether they can be fraud or genuine. ##
 
                                                               ## PART 1
 ### 1>.  try out incrementally more complex models which satisfies real world costraint and requirements...
